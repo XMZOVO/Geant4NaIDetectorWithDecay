@@ -1,0 +1,7 @@
+/Users/roy/Downloads/Geant4-thesis-master/rdecay1/build/CMakeFiles/install/local.dir
+/Users/roy/Downloads/Geant4-thesis-master/rdecay1/build/CMakeFiles/rebuild_cache.dir
+/Users/roy/Downloads/Geant4-thesis-master/rdecay1/build/CMakeFiles/edit_cache.dir
+/Users/roy/Downloads/Geant4-thesis-master/rdecay1/build/CMakeFiles/install/strip.dir
+/Users/roy/Downloads/Geant4-thesis-master/rdecay1/build/CMakeFiles/install.dir
+/Users/roy/Downloads/Geant4-thesis-master/rdecay1/build/CMakeFiles/list_install_components.dir
+/Users/roy/Downloads/Geant4-thesis-master/rdecay1/build/CMakeFiles/rdecay01.dir

@@ -1,0 +1,9 @@
+/run/initialize
+
+/gps/particle ion
+/gps/ion 63 152
+/gps/direction -1 0 0
+/gps/pos/centre 24.45 0 0 cm
+/tracking/verbose 0
+
+/run/beamOn 10000000

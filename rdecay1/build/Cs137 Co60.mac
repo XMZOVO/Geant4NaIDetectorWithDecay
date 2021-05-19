@@ -1,0 +1,17 @@
+/run/initialize
+/gps/source/multiplevertex true 
+
+/gps/energy 0 keV
+/gps/direction -1 0 0
+/gps/pos/centre 24.45 0 0 cm
+
+/gps/source/intensity 1.
+/gps/particle ion
+/gps/ion 27 60
+
+/gps/source/add 1.
+/gps/particle ion
+/gps/ion 55 137
+ 
+/tracking/verbose 0
+/run/beamOn 1000000
